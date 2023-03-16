@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 import tkinter as tk
 import random
 import time
@@ -90,10 +84,4 @@ if __name__ == "__main__":
     start_button.pack(pady=10)
 
     window.mainloop()
-
-
-# In[ ]:
-
-
-
-
+    
